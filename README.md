@@ -1,5 +1,5 @@
-# 💫 About Me:
-## About Me :<br><br>- 🔭 I’m currently working on **Cybersecurity and Ethical Hacking projects**<br>- 👯 I’m looking to collaborate on **Cybersecurity, Python Automation, and Open Source Security Tools**<br>- 🤝 I’m looking for help with **Advanced penetration testing and vulnerability research**<br>- 🌱 I’m currently learning **Cybersecurity, Hacker Methodology, and Security Tools**<br>- 💬 Ask me about **Cybersecurity, Linux, Python Automation, and Ethical Hacking**<br>
+#  About Me:
+## About Me :<br><br>-  I’m currently working on **Cybersecurity and Ethical Hacking projects**<br>-  I’m looking to collaborate on **Cybersecurity, Python Automation, and Open Source Security Tools**<br>-  I’m looking for help with **Advanced penetration testing and vulnerability research**<br>-  I’m currently learning **Cybersecurity, Hacker Methodology, and Security Tools**<br>- 💬 Ask me about **Cybersecurity, Linux, Python Automation, and Ethical Hacking**<br>
 
 
 ## 🌐 Socials:
