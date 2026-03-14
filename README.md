@@ -1,5 +1,5 @@
 <!-- HEADER -->
-<h1 align="center">Hi 👋, I'm Sailaxman Mudapaka</h1>
+<h1 align="center">Hi 👋, I'm Saiaxman Mudapaka</h1>
 <h3 align="center">Data Science Student | Cybersecurity Enthusiast</h3>
 
 <!-- TYPING ANIMATION -->
@@ -100,14 +100,6 @@
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Laxman02172005&theme=tokyo-night&hide_border=true"/>
-</p>
-
----
-
-# 📅 Contribution Calendar
-
-<p align="center">
-<img src="https://github-readme-calendar.vercel.app/api?username=Laxman02172005&theme=tokyonight"/>
 </p>
 
 ---
