@@ -1,9 +1,15 @@
 <!-- HEADER -->
 <h1 align="center">Hi 👋, I'm Laxman</h1>
-<h3 align="center">🔐 Cybersecurity Enthusiast | 📊 Data Science Student | 🐍 Python Developer</h3>
+<h3 align="center">🔐 Cybersecurity Enthusiast | 📊 Data Science Student</h3>
 
+<!-- TERMINAL ANIMATION -->
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&center=true&vCenter=true&width=700&lines=Cybersecurity+Enthusiast;Ethical+Hacking+Learner;Python+Automation+Developer;Data+Science+Student;Always+Learning+New+Security+Concepts" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=800&color=00FF00&center=true&vCenter=true&width=800&lines=$+Initializing+Cybersecurity+Profile...;$+Loading+Security+Modules...;$+Running+Reconnaissance...;$+Learning+Hacker+Methodology...;$+Access+Granted+to+Profile" />
+</p>
+
+<!-- HACKER GIF -->
+<p align="center">
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="600"/>
 </p>
 
 ---
@@ -15,17 +21,17 @@
 
 - 🔭 Currently working on **Cybersecurity labs and security practice**
 - 🌱 Currently learning **Hacker Methodology, Network Security, and Penetration Testing**
-- 👯 Looking to collaborate on **Cybersecurity tools and Python security automation**
-- 💬 Ask me about **Linux, Python scripting, Cybersecurity basics**
+- 👯 Looking to collaborate on **Cybersecurity tools and security automation**
+- 💬 Ask me about **Linux, Cybersecurity basics, Ethical Hacking**
 - ⚡ Fun fact: **I'm quiet at first… but once I start talking nobody can stop me 😄**
 
 ---
 
 # 🌐 Connect With Me
 
-<p align="left">
+<p align="center">
 
-<a href="https://linkedin.com/in/sailaxman-mudapaka" target="_blank">
+<a href="https://linkedin.com/in/sailaxman-mudapaka">
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -53,7 +59,6 @@
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/scikit_learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 
 ### 🗄️ Databases
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -63,7 +68,15 @@
 ### ⚙️ Tools
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+---
+
+# 🔐 Cybersecurity Tools
+
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-00457C?style=for-the-badge&logo=linux&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/BurpSuite-FF6633?style=for-the-badge)
+![Metasploit](https://img.shields.io/badge/Metasploit-003366?style=for-the-badge)
 
 ---
 
@@ -81,20 +94,28 @@
 
 ---
 
-# 🐍 Contribution Graph
+# 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+<img src="https://github-profile-trophy.vercel.app/?username=Laxman02172005&theme=matrix&no-frame=true&margin-w=10"/>
 </p>
 
 ---
 
-# 📈 Profile Visitors
+# 💻 Hacker Activity Graph
 
 <p align="center">
-<img src="https://visitcount.itsvg.in/api?id=Laxman02172005&icon=5&color=6">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Laxman02172005&theme=react-dark&bg_color=000000&color=00ff00&line=00ff00&point=ffffff&area=true&hide_border=true"/>
 </p>
 
 ---
 
-⭐ **Learning cybersecurity one vulnerability at a time.**
+# 👀 Profile Visitors
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Laxman02172005&label=Profile%20Views&color=00ff00&style=flat"/>
+</p>
+
+---
+
+⭐ **Learning cybersecurity one vulnerability at a time**
