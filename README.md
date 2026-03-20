@@ -1,5 +1,5 @@
 <!-- HEADER -->
-<h1 align="center">Hi 👋, I'm Saiaxman Mudapaka</h1>
+<h1 align="center">Hi 👋, I'm Sailaxman Mudapaka</h1>
 <h3 align="center">Data Science Student | Cybersecurity Enthusiast</h3>
 
 <!-- TYPING ANIMATION -->
